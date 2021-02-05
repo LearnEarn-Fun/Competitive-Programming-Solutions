@@ -1,5 +1,5 @@
 #include<stdio.h>
-int min(int a,int b) // to calculate the minimum of two numbers
+int min(int a,int b) 
 {
     if(a<b)
     return a;
