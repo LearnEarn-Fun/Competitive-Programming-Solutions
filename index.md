@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# 🎯💻Competitive Programming Solutions🏆🏅
+This repository contains all the popular competitive programming solutions. The Programming languages used for demonstration is the HTML5, CSS3, JS, Python, C++, C, C#. <br><br>
+ ![GitHub forks](https://img.shields.io/github/forks/hridaya423/Competitive-Programming-Solutions?style=for-the-badge)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/hridaya423/Competitive-Programming-Solutions?style=for-the-badge)
+ [![Watchers](https://img.shields.io/github/watchers/hridaya423/Competitive-Programming-Solutions?style=for-the-badge)](https://github.com/hridaya423/Competitive-Programming-Solutions/watchers)
+ ![Lines of code](https://img.shields.io/tokei/lines/github/hridaya423/Competitive-Programming-Solutions?style=for-the-badge)
+ <br><br>
+![CompetitiveProgrammingQuestionBank](https://socialify.git.ci/hridaya423/Competitive-Programming-Solutions/image?description=1&descriptionEditable=This%20repository%20contains%20all%20the%20competitive%20programming%20solutions.%20The%20Programming%20languages%20used%20%0A%20are%20HTML5%2C%20CSS3%2C%20JS%2C%20Python%2C%20C%2B%2B%2C%20C%2C%20C%23.&font=KoHo&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
 
-You can use the [editor on GitHub](https://github.com/hridaya423/Competitive-Programming-Solutions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Popular Solutions:
+<ul>
+ <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/C%2B%2B%20Solutions">C++ Solutions</a></li>
+ <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/C%20Solutions">C Solutions</a></li>
+ <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/Java%20Solutions">Java Solutions</a></li>
+ <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/Web%20Development(HTML%20%26%20CSS%20%26%20JS)%20Solutions">Web Devlopment Solutions</a></li>
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Want to Contribute to this repository?
 
-### Markdown
+Head over to <a href="https://github.com/hridaya423/Competitive-Programming-Solutions/blob/main/Contributing.md">Contributing Guidelines</a> to know more!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## ❤️ Project Admin
 
-```markdown
-Syntax highlighted code block
+|                                     <a href="https://github.com/hridaya423"><img src="https://avatars.githubusercontent.com/u/66767013?s=400&u=fa3c18c858b9d96666c641be288cb444a4b80432&v=4"/></a>                                      |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                      **[Hridaya Agrawal](https://www.github.com/hridaya423)**                                                                                    |
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hridaya423/Competitive-Programming-Solutions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## LICENSE
+This project follows the [MIT License](https://github.com/hridaya423/Competitive-Programming-Solutions/blob/main/LICENSE).
