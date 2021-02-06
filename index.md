@@ -19,7 +19,7 @@ This repository contains all the popular competitive programming solutions. The 
 
 ## Want to Contribute to this repository?
 
-Head over to <a href="https://github.com/hridaya423/Competitive-Programming-Solutions/blob/main/Contributing.md">Contributing Guidelines</a> to know more!
+Head over to <a href="https://github.com/hridaya423/Competitive-Programming-Solutions/blob/main/.github/Contributing.md">Contributing Guidelines</a> to know more!
 
 ## ❤️ Project Admin
 
