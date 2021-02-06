@@ -5,7 +5,7 @@ This repository contains all the popular competitive programming solutions. The 
  [![Watchers](https://img.shields.io/github/watchers/hridaya423/Competitive-Programming-Solutions?style=for-the-badge)](https://github.com/hridaya423/Competitive-Programming-Solutions/watchers)
  ![Lines of code](https://img.shields.io/tokei/lines/github/hridaya423/Competitive-Programming-Solutions?style=for-the-badge)
  <br><br>
-![CompetitiveProgrammingQuestionBank](https://socialify.git.ci/hridaya423/Competitive-Programming-Solutions/image?description=1&descriptionEditable=This%20repository%20contains%20all%20the%20competitive%20programming%20solutions.%20The%20Programming%20languages%20used%20%0A%20are%20HTML5%2C%20CSS3%2C%20JS%2C%20Python%2C%20C%2B%2B%2C%20C.&font=KoHo&forks=1&language=1&owner=1&issues=1&pulls=1pattern=Circuit%20Board&stargazers=1&theme=Dark)
+![CompetitiveProgrammingQuestionBank](https://socialify.git.ci/hridaya423/Competitive-Programming-Solutions/image?description=1&descriptionEditable=This%20repository%20contains%20all%20the%20popular%20competitive%20programming%20solutions.%20The%20Programming%20languages%20used%20are%20HTML5%2C%20CSS3%2C%20JS%2C%20Python%2C%20C%2B%2B%2C%20C.&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
 
 ## Popular Solutions:
