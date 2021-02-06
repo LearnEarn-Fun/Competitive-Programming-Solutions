@@ -8,12 +8,14 @@ This repository contains all the popular competitive programming solutions. The 
 ![CompetitiveProgrammingQuestionBank](https://socialify.git.ci/hridaya423/Competitive-Programming-Solutions/image?description=1&descriptionEditable=This%20repository%20contains%20all%20the%20competitive%20programming%20solutions.%20The%20Programming%20languages%20used%20%0A%20are%20HTML5%2C%20CSS3%2C%20JS%2C%20Python%2C%20C%2B%2B%2C%20C%2C%20C%23.&font=KoHo&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
 
 ## Popular Solutions:
-<ul>
+<ol>
  <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/C%2B%2B%20Solutions">C++ Solutions</a></li>
  <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/C%20Solutions">C Solutions</a></li>
+ <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/C%23%20Solutions">C# Solutions</a></li>
  <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/Java%20Solutions">Java Solutions</a></li>
  <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/Web%20Development(HTML%20%26%20CSS%20%26%20JS)%20Solutions">Web Devlopment Solutions</a></li>
-</ul>
+ <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/Python%20Solutions">Python Solutions</a></li>
+</ol>
 
 ## Want to Contribute to this repository?
 
