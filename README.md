@@ -7,6 +7,20 @@ This repository contains all the popular competitive programming solutions. The 
  <br><br>
 ![CompetitiveProgrammingQuestionBank](https://socialify.git.ci/LearnEarn-Fun/Competitive-Programming-Solutions/image?description=1&descriptionEditable=This%20repository%20contains%20all%20the%20competitive%20programming%20solutions.%20The%20Programming%20languages%20used%20%0A%20are%20HTML5%2C%20CSS3%2C%20JS%2C%20Python%2C%20C%2B%2B%2C%20C%2C.&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+
 
 ## Popular Solutions:
 <ol>
