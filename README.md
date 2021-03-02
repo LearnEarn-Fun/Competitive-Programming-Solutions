@@ -28,12 +28,12 @@ This repository contains all the popular competitive programming solutions. The 
  <li><a href="https://github.com/LearnEarn-Fun/Competitive-Programming-Solutions/tree/main/C%20Solutions">C Solutions</a></li>
  <li><a href="https://github.com/LearnEarn-Fun/Competitive-Programming-Solutions/tree/main/Java%20Solutions">Java Solutions</a></li>
  <li><a href="https://github.com/LearnEarn-Fun/Competitive-Programming-Solutions/tree/main/Web%20Development(HTML%20%26%20CSS%20%26%20JS)%20Solutions">Web Devlopment Solutions</a></li>
- <li><a href="https://github.com/hridaya423/Competitive-Programming-Solutions/tree/main/Python%20Solutions">Python Solutions</a></li>
+ <li><a href="https://github.com/LearnEarn-Fun/Competitive-Programming-Solutions/tree/main/Python%20Solutions">Python Solutions</a></li>
 </ol>
 
 ## Want to Contribute to this repository?
 
-Head over to <a href="https://github.com/hridaya423/Competitive-Programming-Solutions/blob/main/.github/Contributing.md">Contributing Guidelines</a> to know more!
+Head over to <a href="https://github.com/hLearnEarn-Fun/Competitive-Programming-Solutions/blob/main/.github/Contributing.md">Contributing Guidelines</a> to know more!
 
 ## ❤️ Project Admin
 
