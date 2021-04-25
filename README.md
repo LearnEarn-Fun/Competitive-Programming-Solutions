@@ -3,7 +3,6 @@ This repository contains all the popular competitive programming solutions. The 
  ![GitHub forks](https://img.shields.io/github/forks/LearnEarn-Fun/Competitive-Programming-Solutions?style=for-the-badge)
  ![GitHub Repo stars](https://img.shields.io/github/stars/LearnEarn-Fun/Competitive-Programming-Solutions?style=for-the-badge)
  [![Watchers](https://img.shields.io/github/watchers/LearnEarn-Fun/Competitive-Programming-Solutions?style=for-the-badge)](https://github.com/LearnEarn-Fun/Competitive-Programming-Solutions/watchers)
- ![Lines of code](https://img.shields.io/tokei/lines/github/LearnEarn-Fun/Competitive-Programming-Solutions?style=for-the-badge)
  <br><br>
 ![CompetitiveProgrammingQuestionBank](https://socialify.git.ci/LearnEarn-Fun/Competitive-Programming-Solutions/image?description=1&descriptionEditable=This%20repository%20contains%20all%20the%20competitive%20programming%20solutions.%20The%20Programming%20languages%20used%20%0A%20are%20HTML5%2C%20CSS3%2C%20JS%2C%20Python%2C%20C%2B%2B%2C%20C%2C.&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
